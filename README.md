@@ -4,89 +4,25 @@
 [![Code Quality: Javascript](https://img.shields.io/lgtm/grade/javascript/g/exceljs/exceljs.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/exceljs/exceljs/context:javascript)
 [![Total Alerts](https://img.shields.io/lgtm/alerts/g/exceljs/exceljs.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/exceljs/exceljs/alerts)
 
-Read, manipulate and write spreadsheet data and styles to XLSX and JSON.
+Rsdf,as;lmdfmasl;df,l';adlf';mlsnfmas;
+dafs
+sd
+fa
+sdf
+asd
+fsa
+dfas,kjfbjhkasnldfm;asm;dlkfknsal
 
-Reverse engineered from Excel spreadsheet files as a project.
+# test PR - how squash merging works?
 
-# Translations
-
-* [中文文档](README_zh.md)
-
-# Installation
-
-```shell
-npm install exceljs
-```
-
-# New Features!
-
-<ul>
-  <li>
-    Merged <a href="https://github.com/exceljs/exceljs/pull/1133">Update @types/node version to latest lts #1133</a>.
-    Many thanks to <a href="https://github.com/Siemienik">Siemienik Paweł</a> for this contribution.
-  </li>
-  <li>
-    Merged <a href="https://github.com/exceljs/exceljs/pull/1134">fix issue #1118 Adding Data Validation and Conditional Formatting to the same sheet causes corrupt workbook #1134</a>.
-    Many thanks to <a href="https://github.com/Alanscut">Alan Wang</a> for this contribution.
-  </li>
-  <li>
-    Merged <a href="https://github.com/exceljs/exceljs/pull/1139">Add benchmarking #1139</a>.
-    Many thanks to <a href="https://github.com/alubbe">Andreas Lubbe</a> for this contribution.
-  </li>
-  <li>
-    Merged <a href="https://github.com/exceljs/exceljs/pull/1148">fix issue #731 image extensions not be case sensitive #1148</a>.
-    Many thanks to <a href="https://github.com/Alanscut">Alan Wang</a> for this contribution.
-  </li>
-  <li>
-    Merged <a href="https://github.com/exceljs/exceljs/pull/1169">fix issue #1165 and update index.d.ts #1169</a>.
-    Many thanks to <a href="https://github.com/Alanscut">Alan Wang</a> for this contribution.
-  </li>
-</ul>
-
-# Contributions
-
-Contributions are very welcome! It helps me know what features are desired or what bugs are causing the most pain.
-
-I have just one request; If you submit a pull request for a bugfix, please add a unit-test or integration-test (in the spec folder) that catches the problem.
- Even a PR that just has a failing test is fine - I can analyse what the test is doing and fix the code from that.
-
-Note: Please try to avoid modifying the package version in a PR.
-Versions are updated on release and any change will most likely result in merge collisions.
-
-To be clear, all contributions added to this library will be included in the library's MIT licence.
-
-# Contents
-
-<ul>
-  <li><a href="#importing">Importing</a></li>
-  <li>
-    <a href="#interface">Interface</a>
-    <ul>
-      <li><a href="#create-a-workbook">Create a Workbook</a></li>
-      <li><a href="#set-workbook-properties">Set Workbook Properties</a></li>
-      <li><a href="#workbook-views">Workbook Views</a></li>
-      <li><a href="#add-a-worksheet">Add a Worksheet</a></li>
-      <li><a href="#remove-a-worksheet">Remove a Worksheet</a></li>
-      <li><a href="#access-worksheets">Access Worksheets</a></li>
-      <li><a href="#worksheet-state">Worksheet State</a></li>
-      <li><a href="#worksheet-properties">Worksheet Properties</a></li>
-      <li><a href="#page-setup">Page Setup</a></li>
-      <li><a href="#headers-and-footers">Headers and Footers</a></li>
-      <li>
-        <a href="#worksheet-views">Worksheet Views</a>
-        <ul>
-          <li><a href="#frozen-views">Frozen Views</a></li>
-          <li><a href="#split-views">Split Views</a></li>
-        </ul>
-      </li>
-      <li><a href="#auto-filters">Auto Filters</a></li>
-      <li><a href="#columns">Columns</a></li>
-      <li><a href="#rows">Rows</a></li>
-      <li><a href="#handling-individual-cells">Handling Individual Cells</a></li>
-      <li><a href="#merged-cells">Merged Cells</a></li>
-      <li><a href="#duplicate-a-row">Duplicate Row</a></li>
-      <li><a href="#defined-names">Defined Names</a></li>
-      <li><a href="#data-validations">Data Validations</a></li>
+asdfas
+dfas
+df
+a
+sdf
+asdf
+as
+dgrhdgfgsfagwValidations</a></li>
       <li><a href="#cell-comments">Cell Comments</a></li>
       <li><a href="#tables">Tables</a></li>
       <li><a href="#styles">Styles</a>
